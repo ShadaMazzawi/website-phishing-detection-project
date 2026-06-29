@@ -20,8 +20,8 @@ https://www.kaggle.com/datasets/ahmednour/website-phishing-data-set
 
 ## Repository Contents
 
-* `Website_Phishing_Final.ipynb` — Final Jupyter/Colab notebook.
-* `Website_Phishing_Report_Final.pdf` — Final project report.
+- `Website_Phishing_Project.ipynb` — Final Jupyter/Colab notebook.
+- `Website_Phishing_Report.pdf` — Final project report.
 
 ## Execution Instructions
 
