@@ -29,13 +29,3 @@ https://www.kaggle.com/datasets/ahmednour/website-phishing-data-set
 2. Open the notebook in Google Colab or Jupyter Notebook.
 3. Upload `Website Phishing.csv` when prompted.
 4. Run all notebook cells from top to bottom.
-
-## Main Models
-
-* Logistic Regression
-* Decision Tree
-* Random Forest
-
-## Main Findings
-
-Random Forest achieved the strongest overall performance on the original dataset. Additional duplicate-row sensitivity analysis showed that removing exact duplicate rows reduced performance, indicating that duplicate records inflated the original evaluation results.
