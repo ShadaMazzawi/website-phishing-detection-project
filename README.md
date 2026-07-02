@@ -27,5 +27,5 @@ https://www.kaggle.com/datasets/ahmednour/website-phishing-data-set
 
 1. Download the dataset from the Kaggle dataset link above.
 2. Open the notebook in Google Colab or Jupyter Notebook.
-3. Upload `Website Phishing.csv` when prompted.
+3. Place `Website Phishing.csv` in the same folder as the notebook, or upload it to Colab's file browser. The notebook automatically detects the file, so no manual path editing is needed.
 4. Run all notebook cells from top to bottom.
